@@ -31,5 +31,11 @@
 
 ## Testing & Deployment
 - [x] Write vitest tests for admin procedures
-- [ ] Save checkpoint
-- [ ] Push to GitHub leaderbot-webapp repo
+- [x] Save checkpoint
+- [x] Push to GitHub leaderbot-webapp repo
+
+## Branding Update (from Facebook page)
+- [x] Update Messenger URL to correct Facebook page ID (61587343141159)
+- [x] Update Facebook page link to correct profile URL
+- [x] Update tagline to match Facebook page: "AI image transformations inside Messenger. Simple. Instant. Fun."
+- [x] Update footer and CTA copy to match real page branding

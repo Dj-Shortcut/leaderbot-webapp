@@ -141,7 +141,7 @@ function Navbar() {
               </Button>
             </a>
           )}
-          <a href="https://m.me/leaderbot" target="_blank" rel="noopener noreferrer">
+          <a href="https://m.me/61587343141159" target="_blank" rel="noopener noreferrer">
             <Button size="sm" className="gap-2 font-medium"
               style={{ background: "linear-gradient(135deg, oklch(78% 0.14 80), oklch(65% 0.18 60))", color: "oklch(12% 0.02 80)" }}>
               <MessageCircle className="w-4 h-4" />
@@ -192,12 +192,12 @@ function HeroSection() {
         </h1>
 
         <p className="text-xl text-muted-foreground max-w-2xl mx-auto mb-10 leading-relaxed">
-          Leaderbot AI turns your everyday photos into stunning creative artworks
-          using 6 unique AI styles — directly through Facebook Messenger.
+          AI image transformations inside Messenger.
+          Simple. Instant. Fun. — powered by GPT Image AI.
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16">
-          <a href="https://m.me/leaderbot" target="_blank" rel="noopener noreferrer">
+          <a href="https://m.me/61587343141159" target="_blank" rel="noopener noreferrer">
             <Button size="lg" className="gap-3 px-8 py-6 text-base font-semibold shadow-lg"
               style={{ background: "linear-gradient(135deg, oklch(78% 0.14 80), oklch(65% 0.18 60))", color: "oklch(12% 0.02 80)" }}>
               <MessageCircle className="w-5 h-5" />
@@ -218,7 +218,7 @@ function HeroSection() {
           {[
             { icon: <Zap className="w-4 h-4 text-primary" />, label: "Results in seconds" },
             { icon: <Star className="w-4 h-4 text-primary" />, label: "6 unique styles" },
-            { icon: <Shield className="w-4 h-4 text-primary" />, label: "1 free image per day" },
+            { icon: <Shield className="w-4 h-4 text-primary" />, label: "Free to try" },
           ].map((item, i) => (
             <div key={i} className="flex items-center gap-2">
               {item.icon}
@@ -351,12 +351,12 @@ function CTASection() {
               Ready to Transform Your Photos?
             </h2>
             <p className="text-muted-foreground text-lg mb-8 leading-relaxed">
-              It's completely free to start. Send a photo to Leaderbot AI on Facebook Messenger
-              and get your first AI transformation in seconds.
+          It's completely free to start. Send a photo to Leaderbot on Facebook Messenger
+          and receive your AI-transformed image in seconds.
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-10">
-              <a href="https://m.me/leaderbot" target="_blank" rel="noopener noreferrer">
+              <a href="https://m.me/61587343141159" target="_blank" rel="noopener noreferrer">
                 <Button size="lg" className="gap-3 px-10 py-6 text-base font-semibold"
                   style={{ background: "linear-gradient(135deg, oklch(78% 0.14 80), oklch(65% 0.18 60))", color: "oklch(12% 0.02 80)" }}>
                   <MessageCircle className="w-5 h-5" />
@@ -369,7 +369,7 @@ function CTASection() {
             {/* Instructions */}
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-sm text-left">
               {[
-                { step: "1", text: "Find Leaderbot AI on Facebook Messenger" },
+                { step: "1", text: "Find Leaderbot on Facebook Messenger (ID: 61587343141159)" },
                 { step: "2", text: "Send any photo you'd like to transform" },
                 { step: "3", text: "Choose a style and receive your AI artwork" },
               ].map((item) => (
@@ -402,15 +402,15 @@ function Footer() {
           <span className="text-sm font-medium text-foreground">Leaderbot AI</span>
         </div>
         <p className="text-xs text-muted-foreground">
-          © {new Date().getFullYear()} Leaderbot AI. AI-powered photo transformation via Facebook Messenger.
+          © {new Date().getFullYear()} Leaderbot. AI image transformations inside Messenger.
         </p>
         <div className="flex items-center gap-4 text-xs text-muted-foreground">
-          <a href="https://m.me/leaderbot" target="_blank" rel="noopener noreferrer"
+          <a href="https://m.me/61587343141159" target="_blank" rel="noopener noreferrer"
             className="hover:text-primary transition-colors">
-            Messenger
+              Messenger
           </a>
           <span>·</span>
-          <a href="https://www.facebook.com/leaderbot" target="_blank" rel="noopener noreferrer"
+          <a href="https://www.facebook.com/profile.php?id=61587343141159" target="_blank" rel="noopener noreferrer"
             className="hover:text-primary transition-colors">
             Facebook
           </a>
